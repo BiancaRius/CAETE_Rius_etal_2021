@@ -1,0 +1,67 @@
+Paper_author,Plot,Lat,Lon,Biomass,Unidade,Biomass (kgC/m2),Ref,"Type
+"
+"Malhi, Y. et al, 2009",Caxiuanã,-1.7,-51.53,201,Mg C/ha,20.1,"S. Almeida, unpublished data",AG
+,Tapajós,-2.5,-55,152.74,Mg C/ha,15.27,"Rice et al. (2004), Pyle et al. (2008), Malhi et al. (2006)",AG
+,Manaus,-2.5,-60,165,Mg C/ha,16.5,"Higuchi, unpublished data, Pyle et al. (2008), Malhi et al. (2006)",AG
+Clark et al. 2001,BDFFP (Biological Dynamics of Forest Fragments Project),-2.5,-60,171.75,Mg C/ha,17.18,"Sizer (1992), Chambers (1998)",AG
+,Paragominas,-2.98,-47.52,62.5,Mg C/ha,6.25,"Trumbore et al. (1995), J. Chambers and D. Nepstad",AG
+Baker et al. 2004 (média dos metodos de Chambers e Chave,Caxiuanã,-1.7,-51.53,339.15,Mg C/ha,33.91,"Chambers et al. (2001), Chave et al. (2001)",AG
+,Tapajós,-3.31,-54.94,327.6,Mg C/ha,32.76,"Chambers et al. (2001), Chave et al. (2001)",AG
+,Jari,-1,-52.05,369.66,Mg C/ha,36.97,"Chambers et al. (2001), Chave et al. (2001)",AG
+Malhi et al. 2006,Bacia do Turiacu,-3.1,-45.97,283.69,Mg DW/ha,13.48,Balee (1990),Total
+,Bacia do Gurupi,-2.67,-46.33,350.25,Mg DW/ha,16.64,Balee (1990),Total
+,BDFPP,-2.4,-59.9,329.47,Mg DW/ha,15.65,Laurance et al. (1999),Total
+,Bionte,-2.63,-60.17,337.19,Mg DW/ha,16.02,Higuchi et al. (não publicado),Total
+,BR-364 Km 17,-10.75,-61.92,326.65,Mg DW/ha,15.52,Thomsen (tese PhD),Total
+,Camaipi,-0.17,-51.62,382.71,Mg DW/ha,18.18,Mori et al. (1989),Total
+,Caxiuanã,-1.7,-51.53,367.66,Mg DW/ha,17.46,"RAINFOR (não publicado), Almeida et al. (não publicado)",Total
+,Ducke,-3,-60,272.71,Mg DW/ha,12.95,Prance et al. (1976),Total
+,Faz. Nova Olinda,-10.12,-69.22,345.4,Mg DW/ha,16.41,Silveira et al. (não publicado),Total
+,Jacarandá,-2.63,-60.17,296.92,Mg DW/ha,14.1,Higuchi et al. (não publicado),Total
+,Jau,-2.5,-62,406.96,Mg DW/ha,19.33,Ferreira & Prance (1998),Total
+,Jari,-1,-52.05,392.4,Mg DW/ha,18.64,J.M.N Silva (não publicado),Total
+,Juruá,-4.78,-66.25,321.91,Mg DW/ha,15.29,"da Silva, Lisboa, Maciel (1992)",Total
+,Mare,-1.75,-61.25,307.64,Mg DW/ha,14.61,Milliken (1998),Total
+,Marabá,-5.73,-49.05,288.05,Mg DW/ha,13.68,Salomao et al. (não publicado),Total
+,Mocambo,-1.45,-48.45,301.15,Mg DW/ha,14.3,Pires & Salamao (2000),Total
+,PARNA,-7.54,-73.28,207.86,Mg DW/ha,9.87,Silveira et al. (não publicado),Total
+,Peixe-Boi,-1,-47.5,253.01,Mg DW/ha,12.02,Salomao et al. (não publicado),Total
+,RESEX,-10.82,-68.77,267.93,Mg DW/ha,12.73,Silveira et al. (não publicado),Total
+,R0-429,-11,-62.25,315.1,Mg DW/ha,14.97,Thomsen (tese PhD),Total
+,S. F. do Pará,-1.07,-47.78,285.18,Mg DW/ha,13.55,Vieira et al. (não publicado),Total
+,Samuel Hydroeletric Reservoir,-8.75,-63.38,264.55,Mg DW/ha,12.57,Foster Brown et al. (1995),Total
+,Serra Norte Carajás,-6,-50.25,237.13,Mg DW/ha,11.26,"da Silva, Rosa, Oliveira (1987), Thomsen (tese PhD)",Total
+,Tapajós RP014,-2.75,-55,350.2,Mg DW/ha,16.63,J.M.N Silva (não publicado),Total
+,Trombetas,-1.5,-56.5,288.41,Mg DW/ha,13.7,Salomao et al. (não publicado),Total
+,Urucu,-4.85,-65.27,353.89,Mg DW/ha,16.81,Peres (1994),Total
+,Vizeu,-1.88,-46.75,328.6,Mg DW/ha,15.61,Vieira et al. (não publicado),Total
+,Xingu,-3.48,-51.67,287.13,Mg DW/ha,13.64,"Balee & Campbell (1990), Campbell et al. (1986)",Total
+Doughty et al. 2013,CNFR Terra Preta,-1.72,-51.45,145.15,Mg C/ha,11.09,Doughty et al. 2013,Total
+Houghton et al. 2001,Terra firme forest,-2.5,-53.5,309,Mg (dwt)/ha,14.68,Heinsdijk (1957),AG
+,Terra firme forest,-3.5,-57.5,254,Mg (dwt)/ha,12.07,Heinsdijk (1958),AG
+,Terra firme forest,-2.25,-50.75,400,Mg (dwt)/ha,19,Heinsdijk (1958),AG
+,Terra firme forest,-2.5,-48.5,337,Mg (dwt)/ha,16.01,Heinsdijk (1958),AG
+,Tropical forest,-3.63,-47.35,253,Mg (dwt)/ha,12.02,Glerum & Smit (1962),AG
+,Terra firme forest,-1.25,-46.5,221,Mg (dwt)/ha,10.5,Glerum (1960),AG
+,Dense tropical moist forest,1.47,-61.11,228,Mg (dwt)/ha,10.83,Higuchi et al. (1994),AG
+,Terra firme (tropical moist forest),-2.98,-47.52,264,Mg (dwt)/ha,12.54,Nepstad (1989),AG
+,Humid tropical forest,-1.18,-47.32,267,Mg (dwt)/ha,12.68,Salomao (1996),AG
+,Tropical Rainforest,-2.58,-59.98,390,Mg (dwt)/ha,18.53,Carvalho Jr. (1995),AG
+,Terra firme tropical rainforest,-3.1,-60,406,Mg (dwt)/ha,19.29,Kilinge & Rodrigues (1973),AG
+,Terra firme lowland rainforest,-2.5,-60.8,249,Mg (dwt)/ha,11.83,McWilliam et al. (1993),AG
+,Tropical forest,-3.42,-49.44,326,Mg (dwt)/ha,15.49,Cardenas et al. (1982),AG
+,Lowland broadleaf dense forest,-2.32,-60.09,242,Mg (dwt)/ha,11.5,Fearnside et al. (1993),AG
+,ver,-5.23,-49.1,185,Mg (dwt)/ha,8.7875,ver,AG
+,,-4.88,-47.5,95,Mg (dwt)/ha,4.5125,,AG
+,,1.9,-67.1,336,Mg (dwt)/ha,15.96,,AG
+,,-0.63,-72.36,343,Mg (dwt)/ha,16.2925,,AG
+,,-3,-47,306,Mg (dwt)/ha,14.535,,AG
+,,-8.75,-63.38,285,Mg (dwt)/ha,13.5375,,AG
+,,-10.75,-68.75,320,Mg (dwt)/ha,15.2,,AG
+,,-10.31,-67.76,354,Mg (dwt)/ha,16.815,,AG
+,,1.9,-67.1,277,Mg (dwt)/ha,13.1575,,AG
+,,-3.2,-55,284,Mg (dwt)/ha,13.49,,AG
+,,-11.77,-72.93,124,Mg (dwt)/ha,5.89,,AG
+,,-5.86,-49.18,399,Mg (dwt)/ha,18.9525,,AG
+,,-9.2,-60.5,299,Mg (dwt)/ha,14.2025,,AG
+,,-4.5,-49,268,Mg (dwt)/ha,12.73,,AG

@@ -1,0 +1,75 @@
+library(hypervolume)
+table=read.csv("/home/bianca/paper_mestrado_codes_results/caete_results_server/paper_mestrado_Amz_basin/PLS_number_choice/allpls_meanruns_pcs.csv")
+
+pls_50=table[table$PLS=='50PLS',]
+pls50_traits=pls_50[,26:29]
+hv_50=hypervolume(pls50_traits, method = "gaussian",name="50 PLS")
+
+pls_100=table[table$PLS=='100PLS',]
+pls100_traits=pls_100[,26:29]
+hv_100=hypervolume(pls100_traits, method = "gaussian",name="100 PLS")
+
+pls_200=table[table$PLS=='200PLS',]
+pls200_traits=pls_200[,26:29]
+hv_200=hypervolume(pls200_traits, method = "gaussian",name="200 PLS")
+
+pls_500=table[table$PLS=='500PLS',]
+pls500_traits=pls_500[,26:29]
+hv_500=hypervolume(pls500_traits, method = "gaussian",name="500 PLS")
+
+pls_1000=table[table$PLS=='1000PLS',]
+pls1000_traits=pls_1000[,26:29]
+hv_1000=hypervolume(pls1000_traits, method = "gaussian",name="1000 PLS")
+
+pls_3000=table[table$PLS=='3000PLS',]
+pls3000_traits=pls_3000[,26:29]
+hv_3000=hypervolume(pls3000_traits, method = "gaussian",name="3000 PLS")
+
+list=hypervolume_join(hv_50,hv_100,hv_200,hv_500,hv_1000,hv_3000)
+plot.HypervolumeList(list, show.random = FALSE, show.data=TRUE,show.centroid = TRUE,show.contour = FALSE,contour.type ="kde", point.dark.factor = 0,cex.data = 0.9,cex.legend = 1.2)
+plot.HypervolumeList(list, show.random = FALSE, show.data=FALSE,show.centroid = TRUE,show.contour =TRUE,contour.type ="kde", point.dark.factor = 0,cex.data = 0.9,cex.legend = 1.2)
+plot.HypervolumeList(list,show.3d = TRUE, show.random = FALSE, show.data=TRUE,show.centroid = TRUE,show.contour = FALSE,contour.type ="kde",point.dark.factor = 0,cex.data = 0.9,cex.legend = 1.2)
+
+hv_dis_50_100<-hypervolume_distance(hv_50,hv_100, type="centroid", check.memory=FALSE)
+hv_dis_50_100
+hv_set_50_100<-hypervolume_set(hv1 = hv_50,hv2=hv_100,verbose=TRUE,check.memory = FALSE)
+get_volume(hv_set_50_100)
+hv_set_50_100_ov<-hypervolume_overlap_statistics(hv_set_50_100)
+hv_set_50_100_ov
+
+hv_dis_100_200<-hypervolume_distance(hv_100,hv_200, type="centroid", check.memory=FALSE)
+hv_dis_100_200
+hv_set_100_200<-hypervolume_set(hv1 = hv_100,hv2=hv_200,verbose=TRUE,check.memory = FALSE)
+get_volume(hv_set_100_200)
+hv_set_100_200_ov<-hypervolume_overlap_statistics(hv_set_100_200)
+hv_set_100_200_ov
+
+hv_dis_200_500<-hypervolume_distance(hv_200,hv_500, type="centroid", check.memory=FALSE)
+hv_dis_200_500
+hv_set_200_500<-hypervolume_set(hv1 = hv_200,hv2=hv_500,verbose=TRUE,check.memory = FALSE)
+get_volume(hv_set_200_500)
+hv_set_200_500_ov<-hypervolume_overlap_statistics(hv_set_200_500)
+hv_set_200_500_ov
+
+hv_dis_500_1000<-hypervolume_distance(hv_500,hv_1000, type="centroid", check.memory=FALSE)
+hv_dis_500_1000
+hv_set_500_1000<-hypervolume_set(hv1 = hv_500,hv2=hv_1000,verbose=TRUE,check.memory = FALSE)
+get_volume(hv_set_500_1000)
+hv_set_500_1000_ov<-hypervolume_overlap_statistics(hv_set_500_1000)
+hv_set_500_1000_ov
+
+hv_dis_1000_3000<-hypervolume_distance(hv_1000,hv_3000, type="centroid", check.memory=FALSE)
+hv_dis_1000_3000
+hv_set_1000_3000<-hypervolume_set(hv1 = hv_1000,hv2=hv_3000,verbose=TRUE,check.memory = FALSE)
+get_volume(hv_set_1000_3000)
+hv_set_1000_3000_ov<-hypervolume_overlap_statistics(hv_set_1000_3000)
+hv_set_1000_3000_ov
+
+hv_dis_50_200<-hypervolume_distance(hv_50,hv_200, type="centroid", check.memory=FALSE)
+hv_dis_50_200
+
+hv_dis_50_500<-hypervolume_distance(hv_50,hv_500, type="centroid", check.memory=FALSE)
+hv_dis_50_500
+
+hv_dis_50_1000<-hypervolume_distance(hv_50,hv_1000, type="centroid", check.memory=FALSE)
+hv_dis_50_1000

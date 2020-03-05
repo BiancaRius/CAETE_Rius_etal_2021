@@ -1,0 +1,5 @@
+approach,climate condition,prop
+PFT,normal,0.107
+PFT,reduced precipitation,0.088
+Trait-based,normal,0.058
+Trait-based,reduced precipitation,0.102

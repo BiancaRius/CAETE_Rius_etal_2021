@@ -1,0 +1,6 @@
+#downloading results from server
+
+~caete_results_server
+python3 resuts_pull.py
+
+#don't forget renaming rs!

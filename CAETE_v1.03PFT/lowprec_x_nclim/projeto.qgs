@@ -1,0 +1,3433 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.18.17">
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <layer-tree-group expanded="1" checked="Qt::PartiallyChecked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="total_cmass_lowprec_PLS20200210141817454" source="total_cmass_lowprec_PLS.tif" name="total_cmass_lowprec_PLS">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="total_cmass_nclim_PLS20200210141636352" source="total_cmass_nclim_PLS.tif" name="total_cmass_nclim_PLS">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="total_cmass_lowprec_3PFTs20200210141047455" source="total_cmass_lowprec_3PFTs.tif" name="total_cmass_lowprec_3PFTs">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Unchecked" id="total_cmass_nclim_3PFTs20200210140854752" source="total_cmass_nclim_3PFTs.tif" name="total_cmass_nclim_3PFTs">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="TM_WORLD_BORDERS_0_3__copiar20200208115428754" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3  copiar">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cleaf_PLS_lowprec_clipped20200208120514507" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS_application/3000_lowprec/total_cleaf_PLS_lowprec_clipped.tif" name="total_cleaf_PLS_lowprec_clipped">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cawood_PLS_lowprec_clipped20200208120514324" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS_application/3000_lowprec/total_cawood_PLS_lowprec_clipped.tif" name="total_cawood_PLS_lowprec_clipped">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cfroot_PLS_lowprec_clipped20200208120514091" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS_application/3000_lowprec/total_cfroot_PLS_lowprec_clipped.tif" name="total_cfroot_PLS_lowprec_clipped">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="cleaf_percentage_reduction_3000PLS20200208122015438" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cleaf_percentage_reduction_3000PLS.tif" name="cleaf_percentage_reduction_3000PLS">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="cmass_percenage_reduction_PLS20200210141909195" source="cmass_percenage_reduction_PLS.tif" name="cmass_percenage_reduction_PLS">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="cmass_reduction_area_pls20200210144943857" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cmass_reduction_area_pls.tif" name="cmass_reduction_area_pls">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="cmass_area_PLS20200210144743933" source="cmass_area_PLS.tif" name="cmass_area_PLS">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="cmass_gross_reduction_PLS20200210144714253" source="cmass_gross_reduction_PLS.tif" name="cmass_gross_reduction_PLS">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="cmass_reduction_area_pft20200210145000679" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cmass_reduction_area_pft.tif" name="cmass_reduction_area_pft">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="cmass_area_3PFTs20200210144546002" source="cmass_area_3PFTs.tif" name="cmass_area_3PFTs">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="cell_area20200210144511412" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_PLS/codes/CAETE-v1.0_PLS/scripts/cell_area.nc" name="cell_area">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="cmass_gross_reduction_3PFTs20200210144450305" source="cmass_gross_reduction_3PFTs.tif" name="cmass_gross_reduction_3PFTs">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Checked" id="cmass_percentage_reduction_3PFTs20200210141157951" source="cmass_percentage_reduction_3PFTs.tif" name="cmass_percentage_reduction_3PFTs">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cleaf_lowprec_3PFTs20200208114113094" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/3PFTs_lowprec/total_cleaf_lowprec_3PFTs.tif" name="total_cleaf_lowprec_3PFTs">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cawood_nclim_3PFTs20200208113350461" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/3PFTs_nclim/total_cawood_nclim_3PFTs.tif" name="total_cawood_nclim_3PFTs">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="cfroot_percentage_reduction_3PFTs20200208120201960" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cfroot_percentage_reduction_3PFTs.tif" name="cfroot_percentage_reduction_3PFTs">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cawood_lowprec_3PFTs20200208114225115" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/3PFTs_lowprec/total_cawood_lowprec_3PFTs.tif" name="total_cawood_lowprec_3PFTs">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cfroot_lowprec_3PFTs20200208114147462" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/3PFTs_lowprec/total_cfroot_lowprec_3PFTs.tif" name="total_cfroot_lowprec_3PFTs">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="cfroot_percentage_reduction_3000PLS20200208122120303" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cfroot_percentage_reduction_3000PLS.tif" name="cfroot_percentage_reduction_3000PLS">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cfroot_nclim_3PFTs20200208113239869" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/3PFTs_nclim/total_cfroot_nclim_3PFTs.tif" name="total_cfroot_nclim_3PFTs">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cleaf_nclim_3PFTs20200208112858905" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/3PFTs_nclim/total_cleaf_nclim_3PFTs.tif" name="total_cleaf_nclim_3PFTs">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="cawood_percentage_reduction_3PFTs20200208115918770" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cawood_percentage_reduction_3PFTs.tif" name="cawood_percentage_reduction_3PFTs">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="cleaf_percentage_reduction_3PFTs20200208115113231" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cleaf_percentage_reduction_3PFTs.tif" name="cleaf_percentage_reduction_3PFTs">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cawood_PLS_nclim_clipped20200208113640611" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS/total_cawood_PLS_nclim_clipped.tif" name="total_cawood_PLS_nclim">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cfroot_PLS_nclim_clipped20200208113623991" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS/total_cfroot_PLS_nclim_clipped.tif" name="total_cfroot_PLS_nclim">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="total_cleaf_PLS_nclim_clipped20200208113640397" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS/total_cleaf_PLS_nclim_clipped.tif" name="total_cleaf_PLS_nclim">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Unchecked" id="cawood_percentage_reduction_3000PLS20200208135250508" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cawood_percentage_reduction_3000PLS.tif" name="cawood_percentage_reduction_3000PLS">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="0" providerKey="ogr" checked="Qt::Checked" id="TM_WORLD_BORDERS_0_320200208115400987" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3">
+      <customproperties>
+        <property key="expandedLegendNodes"/>
+      </customproperties>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <relations/>
+  <mapcanvas>
+    <units>degrees</units>
+    <extent>
+      <xmin>-130.06771653543313505</xmin>
+      <ymin>-43.3062992125984465</ymin>
+      <xmax>-35.56771653543314926</xmax>
+      <ymax>40.03228346456705822</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>0</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+        <srsid>3452</srsid>
+        <srid>4326</srid>
+        <authid>EPSG:4326</authid>
+        <description>WGS 84</description>
+        <projectionacronym>longlat</projectionacronym>
+        <ellipsoidacronym>WGS84</ellipsoidacronym>
+        <geographicflag>true</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <layer_coordinate_transform_info/>
+  </mapcanvas>
+  <layer-tree-canvas>
+    <custom-order enabled="0">
+      <item>total_cleaf_nclim_3PFTs20200208112858905</item>
+      <item>total_cfroot_nclim_3PFTs20200208113239869</item>
+      <item>total_cawood_nclim_3PFTs20200208113350461</item>
+      <item>total_cfroot_PLS_nclim_clipped20200208113623991</item>
+      <item>total_cleaf_PLS_nclim_clipped20200208113640397</item>
+      <item>total_cawood_PLS_nclim_clipped20200208113640611</item>
+      <item>total_cleaf_lowprec_3PFTs20200208114113094</item>
+      <item>total_cfroot_lowprec_3PFTs20200208114147462</item>
+      <item>total_cawood_lowprec_3PFTs20200208114225115</item>
+      <item>cleaf_percentage_reduction_3PFTs20200208115113231</item>
+      <item>TM_WORLD_BORDERS_0_320200208115400987</item>
+      <item>TM_WORLD_BORDERS_0_3__copiar20200208115428754</item>
+      <item>cawood_percentage_reduction_3PFTs20200208115918770</item>
+      <item>cfroot_percentage_reduction_3PFTs20200208120201960</item>
+      <item>total_cfroot_PLS_lowprec_clipped20200208120514091</item>
+      <item>total_cawood_PLS_lowprec_clipped20200208120514324</item>
+      <item>total_cleaf_PLS_lowprec_clipped20200208120514507</item>
+      <item>cleaf_percentage_reduction_3000PLS20200208122015438</item>
+      <item>cfroot_percentage_reduction_3000PLS20200208122120303</item>
+      <item>cawood_percentage_reduction_3000PLS20200208135250508</item>
+      <item>total_cmass_nclim_3PFTs20200210140854752</item>
+      <item>total_cmass_lowprec_3PFTs20200210141047455</item>
+      <item>cmass_percentage_reduction_3PFTs20200210141157951</item>
+      <item>total_cmass_nclim_PLS20200210141636352</item>
+      <item>total_cmass_lowprec_PLS20200210141817454</item>
+      <item>cmass_percenage_reduction_PLS20200210141909195</item>
+      <item>cmass_gross_reduction_3PFTs20200210144450305</item>
+      <item>cell_area20200210144511412</item>
+      <item>cmass_area_3PFTs20200210144546002</item>
+      <item>cmass_gross_reduction_PLS20200210144714253</item>
+      <item>cmass_area_PLS20200210144743933</item>
+      <item>cmass_reduction_area_pls20200210144943857</item>
+      <item>cmass_reduction_area_pft20200210145000679</item>
+    </custom-order>
+  </layer-tree-canvas>
+  <legend updateDrawingOrder="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="total_cmass_lowprec_PLS" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cmass_lowprec_PLS20200210141817454" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="total_cmass_nclim_PLS" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cmass_nclim_PLS20200210141636352" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="total_cmass_lowprec_3PFTs" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cmass_lowprec_3PFTs20200210141047455" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="total_cmass_nclim_3PFTs" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cmass_nclim_3PFTs20200210140854752" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="TM_WORLD_BORDERS-0.3  copiar" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="TM_WORLD_BORDERS_0_3__copiar20200208115428754" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cleaf_PLS_lowprec_clipped" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cleaf_PLS_lowprec_clipped20200208120514507" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cawood_PLS_lowprec_clipped" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cawood_PLS_lowprec_clipped20200208120514324" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cfroot_PLS_lowprec_clipped" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cfroot_PLS_lowprec_clipped20200208120514091" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="cleaf_percentage_reduction_3000PLS" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cleaf_percentage_reduction_3000PLS20200208122015438" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="cmass_percenage_reduction_PLS" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cmass_percenage_reduction_PLS20200210141909195" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="cmass_reduction_area_pls" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cmass_reduction_area_pls20200210144943857" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="cmass_area_PLS" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cmass_area_PLS20200210144743933" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="cmass_gross_reduction_PLS" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cmass_gross_reduction_PLS20200210144714253" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="cmass_reduction_area_pft" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cmass_reduction_area_pft20200210145000679" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="cmass_area_3PFTs" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cmass_area_3PFTs20200210144546002" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="cell_area" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cell_area20200210144511412" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="cmass_gross_reduction_3PFTs" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cmass_gross_reduction_3PFTs20200210144450305" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="cmass_percentage_reduction_3PFTs" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cmass_percentage_reduction_3PFTs20200210141157951" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cleaf_lowprec_3PFTs" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cleaf_lowprec_3PFTs20200208114113094" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cawood_nclim_3PFTs" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cawood_nclim_3PFTs20200208113350461" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="cfroot_percentage_reduction_3PFTs" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cfroot_percentage_reduction_3PFTs20200208120201960" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cawood_lowprec_3PFTs" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cawood_lowprec_3PFTs20200208114225115" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cfroot_lowprec_3PFTs" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cfroot_lowprec_3PFTs20200208114147462" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="cfroot_percentage_reduction_3000PLS" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cfroot_percentage_reduction_3000PLS20200208122120303" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cfroot_nclim_3PFTs" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cfroot_nclim_3PFTs20200208113239869" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cleaf_nclim_3PFTs" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cleaf_nclim_3PFTs20200208112858905" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="cawood_percentage_reduction_3PFTs" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cawood_percentage_reduction_3PFTs20200208115918770" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="cleaf_percentage_reduction_3PFTs" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cleaf_percentage_reduction_3PFTs20200208115113231" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cawood_PLS_nclim" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cawood_PLS_nclim_clipped20200208113640611" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cfroot_PLS_nclim" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cfroot_PLS_nclim_clipped20200208113623991" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="total_cleaf_PLS_nclim" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="total_cleaf_PLS_nclim_clipped20200208113640397" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Unchecked" name="cawood_percentage_reduction_3000PLS" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="cawood_percentage_reduction_3000PLS20200208135250508" visible="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="false" checked="Qt::Checked" name="TM_WORLD_BORDERS-0.3" showFeatureCount="0">
+      <filegroup open="false" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="TM_WORLD_BORDERS_0_320200208115400987" visible="1"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <Composer title="perc_3pfts" visible="1">
+    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{c5b0bd4a-94d2-41c1-8612-3def8aae08db}" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+      <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+        <layer pass="0" class="SimpleFill" locked="0">
+          <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="color" v="255,255,255,255"/>
+          <prop k="joinstyle" v="miter"/>
+          <prop k="offset" v="0,0"/>
+          <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="offset_unit" v="MM"/>
+          <prop k="outline_color" v="0,0,0,255"/>
+          <prop k="outline_style" v="no"/>
+          <prop k="outline_width" v="0.26"/>
+          <prop k="outline_width_unit" v="MM"/>
+          <prop k="style" v="solid"/>
+        </layer>
+      </symbol>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Trait-based" htmlState="0" halign="4">
+        <LabelFont description="Arial,18,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="137.135" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="-9.14511" y="137.135" visibility="1" zValue="12" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="52.9431" outlineWidth="0.3" excludeFromExports="0" uuid="{000372b0-da15-4a96-8006-16e345a84d5b}" height="9.87564" itemRotation="0" frame="false" pagex="-9.14511">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="&#xa;fine roots" htmlState="0" halign="4">
+        <LabelFont description="Arial,18,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="3.29534" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="221.57" y="3.29534" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="52.9431" outlineWidth="0.3" excludeFromExports="0" uuid="{cdd85585-f827-44e5-be28-20b6fc749f3d}" height="18.3627" itemRotation="0" frame="false" pagex="221.57">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="PFT" htmlState="0" halign="4">
+        <LabelFont description="Arial,18,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="49.8703" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="-10.658" y="49.8703" visibility="1" zValue="10" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="52.9431" outlineWidth="0.3" excludeFromExports="0" uuid="{970425f8-1819-4a54-aee4-72282d7d1cca}" height="9.87564" itemRotation="0" frame="false" pagex="-10.658">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="aboveground&#xa; woody tissues" htmlState="0" halign="4">
+        <LabelFont description="Arial,18,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="3.29534" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="131.327" y="3.29534" visibility="1" zValue="9" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="52.9431" outlineWidth="0.3" excludeFromExports="0" uuid="{83941979-27fd-41b0-9eb3-0a2378e8473d}" height="18.3627" itemRotation="0" frame="false" pagex="131.327">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="true" followPresetName="" id="5" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="-20.3399283651421463" xmin="-83.30317035705454032" ymax="13.19136762142915487" xmax="-43.20016376176469208"/>
+        <LayerSet>
+          <Layer provider="ogr" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3  copiar">TM_WORLD_BORDERS_0_3__copiar20200208115428754</Layer>
+          <Layer provider="gdal" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cfroot_percentage_reduction_3000PLS.tif" name="cfroot_percentage_reduction_3000PLS">cfroot_percentage_reduction_3000PLS20200208122120303</Layer>
+        </LayerSet>
+        <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{135ca10b-6e98-45d6-98cf-8453d095cc86}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grade 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="104.373" page="1" id="" lastValidViewScaleFactor="2.47435" positionMode="0" positionLock="false" x="208.42" y="104.373" visibility="1" zValue="8" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="85.244" outlineWidth="0.3" excludeFromExports="0" uuid="{64efe364-01b3-413f-9892-f1346fe59bfb}" height="71.275" itemRotation="0" frame="false" pagex="208.42">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="leaves" htmlState="0" halign="4">
+        <LabelFont description="Arial,18,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="9.29536" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="47.2643" y="9.29536" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="52.9431" outlineWidth="0.3" excludeFromExports="0" uuid="{68c93495-d981-48d8-a037-f7035c3c1e2d}" height="9.87564" itemRotation="0" frame="false" pagex="47.2643">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerLegend symbolWidth="8" title="Carbon storage change (%)" rasterBorderWidth="0" titleAlignment="4" map="5" wmsLegendWidth="50" rasterBorderColor="0,0,0,255" wrapChar="" fontColor="#000000" legendFilterByAtlas="0" columnCount="12" wmsLegendHeight="25" columnSpace="2" symbolHeight="6" equalColumnWidth="0" resizeToContents="1" splitLayer="1" boxSpace="2" rasterBorder="1">
+        <styles>
+          <style marginBottom="2" name="title">
+            <styleFont description="Arial,20,-1,5,50,0,0,0,0,0" style="Regular"/>
+          </style>
+          <style marginTop="2" name="group">
+            <styleFont description="Sans Serif,14,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" name="subgroup">
+            <styleFont description="Sans Serif,12,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" name="symbol">
+            <styleFont description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" marginLeft="2" name="symbolLabel">
+            <styleFont description="Arial,16,-1,5,50,0,0,0,0,0" style="Regular"/>
+          </style>
+        </styles>
+        <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+          <customproperties/>
+          <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="cfroot_percentage_reduction_3000PLS20200208122120303" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cfroot_percentage_reduction_3000PLS.tif" name="cfroot_percentage_reduction_3000PLS">
+            <customproperties>
+              <property key="legend/label-11" value="+10"/>
+              <property key="legend/title-style" value="hidden"/>
+            </customproperties>
+          </layer-tree-layer>
+        </layer-tree-group>
+        <ComposerItem pagey="184.695" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="34.3317" y="184.695" visibility="1" zValue="6" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="242.648" outlineWidth="0.3" excludeFromExports="0" uuid="{bc3d614f-bcbe-44ca-bb32-b99a6cef70ed}" height="21.5" itemRotation="0" frame="false" pagex="34.3317">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLegend>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="true" followPresetName="" id="4" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="-20.3399283651421463" xmin="-83.30317035705454032" ymax="13.19136762142915487" xmax="-43.20016376176469208"/>
+        <LayerSet>
+          <Layer provider="ogr" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3  copiar">TM_WORLD_BORDERS_0_3__copiar20200208115428754</Layer>
+          <Layer provider="gdal" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cawood_percentage_reduction_3000PLS.tif" name="cawood_percentage_reduction_3000PLS">cawood_percentage_reduction_3000PLS20200208135250508</Layer>
+        </LayerSet>
+        <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{0ec59951-c6e9-478d-9639-5f42302a2eaf}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grade 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="104.373" page="1" id="" lastValidViewScaleFactor="2.47435" positionMode="0" positionLock="false" x="123.176" y="104.373" visibility="1" zValue="5" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="85.244" outlineWidth="0.3" excludeFromExports="0" uuid="{073fc2a3-5811-4ddb-a0a1-434977714dae}" height="71.275" itemRotation="0" frame="false" pagex="123.176">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="true" followPresetName="" id="1" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="-20.3399283651421463" xmin="-83.30317035705454032" ymax="13.19125811266205872" xmax="-43.20016376176469208"/>
+        <LayerSet>
+          <Layer provider="ogr" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3  copiar">TM_WORLD_BORDERS_0_3__copiar20200208115428754</Layer>
+          <Layer provider="gdal" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cleaf_percentage_reduction_3000PLS.tif" name="cleaf_percentage_reduction_3000PLS">cleaf_percentage_reduction_3000PLS20200208122015438</Layer>
+        </LayerSet>
+        <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{919eaee0-55bb-4436-8204-95d335aca4f1}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grade 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="104.373" page="1" id="" lastValidViewScaleFactor="2.47435" positionMode="0" positionLock="false" x="37.7875" y="104.373" visibility="1" zValue="4" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="85.2438" outlineWidth="0.3" excludeFromExports="0" uuid="{700c2056-36ec-4ccb-aa8c-70b9c236acd5}" height="71.2746" itemRotation="0" frame="false" pagex="37.7875">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="true" followPresetName="" id="3" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="-20.3399283651421463" xmin="-83.30317035705454032" ymax="13.19125811266205872" xmax="-43.20016376176469208"/>
+        <LayerSet>
+          <Layer provider="ogr" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3  copiar">TM_WORLD_BORDERS_0_3__copiar20200208115428754</Layer>
+          <Layer provider="gdal" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cfroot_percentage_reduction_3PFTs.tif" name="cfroot_percentage_reduction_3PFTs">cfroot_percentage_reduction_3PFTs20200208120201960</Layer>
+        </LayerSet>
+        <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{135ca10b-6e98-45d6-98cf-8453d095cc86}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grade 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="19.171" page="1" id="" lastValidViewScaleFactor="2.47435" positionMode="0" positionLock="false" x="208.42" y="19.171" visibility="1" zValue="3" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="85.2438" outlineWidth="0.3" excludeFromExports="0" uuid="{4cab74a5-f15f-423f-83eb-6de3f629051b}" height="71.2746" itemRotation="0" frame="false" pagex="208.42">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="true" followPresetName="" id="2" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="-20.33999999999999986" xmin="-83.30299999999999727" ymax="13.19099278305283818" xmax="-43.20000000000000284"/>
+        <LayerSet>
+          <Layer provider="ogr" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3  copiar">TM_WORLD_BORDERS_0_3__copiar20200208115428754</Layer>
+          <Layer provider="gdal" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cawood_percentage_reduction_3PFTs.tif" name="cawood_percentage_reduction_3PFTs">cawood_percentage_reduction_3PFTs20200208115918770</Layer>
+        </LayerSet>
+        <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{0ec59951-c6e9-478d-9639-5f42302a2eaf}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grade 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="19.171" page="1" id="" lastValidViewScaleFactor="2.47435" positionMode="0" positionLock="false" x="123.176" y="19.171" visibility="1" zValue="2" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="85.2438" outlineWidth="0.3" excludeFromExports="0" uuid="{30d91808-6c34-416b-b1c1-37a5bb6a2dc6}" height="71.2742" itemRotation="0" frame="false" pagex="123.176">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="true" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="-20.3399283651421463" xmin="-83.30317035705454032" ymax="13.19136762142915487" xmax="-43.20016376176469208"/>
+        <LayerSet>
+          <Layer provider="ogr" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3  copiar">TM_WORLD_BORDERS_0_3__copiar20200208115428754</Layer>
+          <Layer provider="gdal" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cleaf_percentage_reduction_3PFTs.tif" name="cleaf_percentage_reduction_3PFTs">cleaf_percentage_reduction_3PFTs20200208115113231</Layer>
+          <Layer provider="gdal" source="/home/bianca/paper_mestrado_codes_results/CAETEv1.0_3PFT/lowprec_x_nclim/cfroot_percentage_reduction_3PFTs.tif" name="cfroot_percentage_reduction_3PFTs">cfroot_percentage_reduction_3PFTs20200208120201960</Layer>
+        </LayerSet>
+        <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{de6a15e1-75f8-4537-b702-8cf2bb2a9b0e}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grade 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="19.171" page="1" id="" lastValidViewScaleFactor="2.47435" positionMode="0" positionLock="false" x="36.788" y="19.171" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="85.244" outlineWidth="0.3" excludeFromExports="0" uuid="{c5b0bd4a-94d2-41c1-8612-3def8aae08db}" height="71.275" itemRotation="0" frame="false" pagex="36.788">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <customproperties>
+        <property key="imageCropMarginBottom" value="0"/>
+        <property key="imageCropMarginLeft" value="0"/>
+        <property key="imageCropMarginRight" value="0"/>
+        <property key="imageCropMarginTop" value="0"/>
+        <property key="imageCropToContents" value="false"/>
+      </customproperties>
+    </Composition>
+  </Composer>
+  <Composer title="total_cmass_red" visible="1">
+    <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" worldFileMap="{5d640963-a4b8-46c1-9f42-e61df069b7dc}" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="0" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
+      <symbol alpha="1" clip_to_extent="1" type="fill" name="">
+        <layer pass="0" class="SimpleFill" locked="0">
+          <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="color" v="255,255,255,255"/>
+          <prop k="joinstyle" v="miter"/>
+          <prop k="offset" v="0,0"/>
+          <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+          <prop k="offset_unit" v="MM"/>
+          <prop k="outline_color" v="0,0,0,255"/>
+          <prop k="outline_style" v="no"/>
+          <prop k="outline_width" v="0.26"/>
+          <prop k="outline_width_unit" v="MM"/>
+          <prop k="style" v="solid"/>
+        </layer>
+      </symbol>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="Trait-based approach" htmlState="0" halign="4">
+        <LabelFont description="Arial,18,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="11.041" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="157.829" y="11.041" visibility="1" zValue="17" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="105.078" outlineWidth="0.3" excludeFromExports="0" uuid="{8a0f8243-7fcf-4ab8-9678-1ead4852ad9b}" height="9.876" itemRotation="0" frame="false" pagex="157.829">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerLabel valign="32" marginX="1" marginY="1" labelText="PFT approach" htmlState="0" halign="4">
+        <LabelFont description="Arial,18,-1,5,50,0,0,0,0,0" style="Regular"/>
+        <FontColor red="0" blue="0" green="0"/>
+        <ComposerItem pagey="11.0414" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="44.8602" y="11.0414" visibility="1" zValue="13" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="52.9431" outlineWidth="0.3" excludeFromExports="0" uuid="{e0e8efc6-3df0-4420-9d00-27870bc52e58}" height="9.87564" itemRotation="0" frame="false" pagex="44.8602">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLabel>
+      <ComposerLegend symbolWidth="8" title="Carbon storage change (%)" rasterBorderWidth="0" titleAlignment="4" map="1" wmsLegendWidth="50" rasterBorderColor="0,0,0,255" wrapChar="" fontColor="#000000" legendFilterByAtlas="0" columnCount="12" wmsLegendHeight="25" columnSpace="2" symbolHeight="6" equalColumnWidth="0" resizeToContents="1" splitLayer="1" boxSpace="2" rasterBorder="1">
+        <styles>
+          <style marginBottom="2" name="title">
+            <styleFont description="Arial,20,-1,5,50,0,0,0,0,0" style="Regular"/>
+          </style>
+          <style marginTop="2" name="group">
+            <styleFont description="Sans Serif,14,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" name="subgroup">
+            <styleFont description="Sans Serif,12,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" name="symbol">
+            <styleFont description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+          </style>
+          <style marginTop="2" marginLeft="2" name="symbolLabel">
+            <styleFont description="Arial,16,-1,5,50,0,0,0,0,0" style="Regular"/>
+          </style>
+        </styles>
+        <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+          <customproperties/>
+          <layer-tree-layer expanded="0" providerKey="gdal" checked="Qt::Checked" id="cmass_percentage_reduction_3PFTs20200210141157951" source="cmass_percentage_reduction_3PFTs.tif" name="cmass_percentage_reduction_3PFTs">
+            <customproperties>
+              <property key="legend/title-style" value="hidden"/>
+            </customproperties>
+          </layer-tree-layer>
+        </layer-tree-group>
+        <ComposerItem pagey="135.793" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="47.425" y="135.793" visibility="1" zValue="3" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="221.15" outlineWidth="0.3" excludeFromExports="0" uuid="{d1cc2993-51c0-4362-8ba7-75566e514f25}" height="21.5" itemRotation="0" frame="false" pagex="47.425">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerLegend>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="true" followPresetName="" id="1" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="-19.40493799021788135" xmin="-82.80103115785406942" ymax="13.72058027769611499" xmax="-42.2132933354559654"/>
+        <LayerSet>
+          <Layer provider="ogr" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3  copiar">TM_WORLD_BORDERS_0_3__copiar20200208115428754</Layer>
+          <Layer provider="gdal" source="cmass_percentage_reduction_3PFTs.tif" name="cmass_percentage_reduction_3PFTs">cmass_percentage_reduction_3PFTs20200210141157951</Layer>
+          <Layer provider="ogr" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3">TM_WORLD_BORDERS_0_320200208115400987</Layer>
+        </LayerSet>
+        <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{80b9991b-ae18-4094-9f9d-c983568f81bd}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grade 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="20.9171" page="1" id="" lastValidViewScaleFactor="2.47435" positionMode="0" positionLock="false" x="13.2954" y="20.9171" visibility="1" zValue="2" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="131.104" outlineWidth="0.3" excludeFromExports="0" uuid="{91a599b8-720a-4560-a175-71600b7daca1}" height="107" itemRotation="0" frame="false" pagex="13.2954">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <ComposerMap followPreset="false" mapRotation="0" keepLayerSet="true" followPresetName="" id="0" previewMode="Cache" drawCanvasItems="true">
+        <Extent ymin="-19.40493799021788135" xmin="-82.80103115785406942" ymax="13.72066910908511517" xmax="-42.2132933354559654"/>
+        <LayerSet>
+          <Layer provider="ogr" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3  copiar">TM_WORLD_BORDERS_0_3__copiar20200208115428754</Layer>
+          <Layer provider="gdal" source="cmass_percenage_reduction_PLS.tif" name="cmass_percenage_reduction_PLS">cmass_percenage_reduction_PLS20200210141909195</Layer>
+          <Layer provider="gdal" source="cmass_percentage_reduction_3PFTs.tif" name="cmass_percentage_reduction_3PFTs">cmass_percentage_reduction_3PFTs20200210141157951</Layer>
+          <Layer provider="ogr" source="/home/bianca/Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp" name="TM_WORLD_BORDERS-0.3">TM_WORLD_BORDERS_0_320200208115400987</Layer>
+        </LayerSet>
+        <Grid/>
+        <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+        <ComposerItem pagey="20.9171" page="1" id="" lastValidViewScaleFactor="2.47435" positionMode="0" positionLock="false" x="152.5" y="20.9171" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="131.104" outlineWidth="0.3" excludeFromExports="0" uuid="{5d640963-a4b8-46c1-9f42-e61df069b7dc}" height="107" itemRotation="0" frame="false" pagex="152.5">
+          <FrameColor alpha="255" red="0" blue="0" green="0"/>
+          <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
+          <customproperties/>
+        </ComposerItem>
+      </ComposerMap>
+      <customproperties>
+        <property key="imageCropMarginBottom" value="0"/>
+        <property key="imageCropMarginLeft" value="0"/>
+        <property key="imageCropMarginRight" value="0"/>
+        <property key="imageCropMarginTop" value="0"/>
+        <property key="imageCropToContents" value="false"/>
+      </customproperties>
+    </Composition>
+  </Composer>
+  <projectlayers>
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <id>TM_WORLD_BORDERS_0_320200208115400987</id>
+      <datasource>../../../Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>TM_WORLD_BORDERS-0.3</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="FIPS">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="ISO2">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="ISO3">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="UN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="NAME">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AREA">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="POP2005">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="REGION">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="SUBREGION">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="LON">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="LAT">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleFill" locked="0">
+              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="color" v="230,231,225,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="0,0,0,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="128"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value="Sans Serif"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="9"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="4294967295"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value="Normal"/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/useSubstitutions" value="false"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>NAME</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Rótulo"/>
+        <family fieldname="" name="Sans Serif"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+          <fontProperties description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
+        </DiagramCategory>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="255,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
+      <annotationform>.</annotationform>
+      <aliases>
+        <alias field="FIPS" index="0" name=""/>
+        <alias field="ISO2" index="1" name=""/>
+        <alias field="ISO3" index="2" name=""/>
+        <alias field="UN" index="3" name=""/>
+        <alias field="NAME" index="4" name=""/>
+        <alias field="AREA" index="5" name=""/>
+        <alias field="POP2005" index="6" name=""/>
+        <alias field="REGION" index="7" name=""/>
+        <alias field="SUBREGION" index="8" name=""/>
+        <alias field="LON" index="9" name=""/>
+        <alias field="LAT" index="10" name=""/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions default="-1"/>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns>
+          <column width="-1" hidden="0" type="field" name="FIPS"/>
+          <column width="-1" hidden="0" type="field" name="ISO2"/>
+          <column width="-1" hidden="0" type="field" name="ISO3"/>
+          <column width="-1" hidden="0" type="field" name="UN"/>
+          <column width="-1" hidden="0" type="field" name="NAME"/>
+          <column width="-1" hidden="0" type="field" name="AREA"/>
+          <column width="-1" hidden="0" type="field" name="POP2005"/>
+          <column width="-1" hidden="0" type="field" name="REGION"/>
+          <column width="-1" hidden="0" type="field" name="SUBREGION"/>
+          <column width="-1" hidden="0" type="field" name="LON"/>
+          <column width="-1" hidden="0" type="field" name="LAT"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
+      </attributetableconfig>
+      <editform>.</editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- código: utf-8 -*-
+"""
+Formas QGIS podem ter uma função Python que é chamada quando o formulário é
+aberto.
+
+Use esta função para adicionar lógica extra para seus formulários.
+
+Digite o nome da função na "função Python Init"
+campo.
+Um exemplo a seguir:
+"""
+de qgis.PyQt.QtWidgets importar QWidget
+
+def my_form_open(diálogo, camada, feição):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <defaults>
+        <default field="FIPS" expression=""/>
+        <default field="ISO2" expression=""/>
+        <default field="ISO3" expression=""/>
+        <default field="UN" expression=""/>
+        <default field="NAME" expression=""/>
+        <default field="AREA" expression=""/>
+        <default field="POP2005" expression=""/>
+        <default field="REGION" expression=""/>
+        <default field="SUBREGION" expression=""/>
+        <default field="LON" expression=""/>
+        <default field="LAT" expression=""/>
+      </defaults>
+      <previewExpression></previewExpression>
+    </maplayer>
+    <maplayer simplifyAlgorithm="0" minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" readOnly="0" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+      <id>TM_WORLD_BORDERS_0_3__copiar20200208115428754</id>
+      <datasource>../../../Downloads/TM_WORLD_BORDERS-0.3/TM_WORLD_BORDERS-0.3.shp</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>TM_WORLD_BORDERS-0.3  copiar</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <expressionfields/>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <edittypes>
+        <edittype widgetv2type="TextEdit" name="FIPS">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="ISO2">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="ISO3">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="UN">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="NAME">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="AREA">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="POP2005">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="REGION">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="SUBREGION">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="LON">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+        <edittype widgetv2type="TextEdit" name="LAT">
+          <widgetv2config IsMultiline="0" fieldEditable="1" constraint="" UseHtml="0" labelOnTop="0" constraintDescription="" notNull="0"/>
+        </edittype>
+      </edittypes>
+      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
+        <symbols>
+          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+            <layer pass="0" class="SimpleLine" locked="0">
+              <prop k="capstyle" v="square"/>
+              <prop k="customdash" v="5;2"/>
+              <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="customdash_unit" v="MM"/>
+              <prop k="draw_inside_polygon" v="0"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="line_color" v="0,0,0,255"/>
+              <prop k="line_style" v="solid"/>
+              <prop k="line_width" v="0.26"/>
+              <prop k="line_width_unit" v="MM"/>
+              <prop k="offset" v="0"/>
+              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="use_custom_dash" v="0"/>
+              <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale scalemethod="diameter"/>
+      </renderer-v2>
+      <labeling type="simple"/>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="labeling" value="pal"/>
+        <property key="labeling/addDirectionSymbol" value="false"/>
+        <property key="labeling/angleOffset" value="0"/>
+        <property key="labeling/blendMode" value="0"/>
+        <property key="labeling/bufferBlendMode" value="0"/>
+        <property key="labeling/bufferColorA" value="255"/>
+        <property key="labeling/bufferColorB" value="255"/>
+        <property key="labeling/bufferColorG" value="255"/>
+        <property key="labeling/bufferColorR" value="255"/>
+        <property key="labeling/bufferDraw" value="false"/>
+        <property key="labeling/bufferJoinStyle" value="128"/>
+        <property key="labeling/bufferNoFill" value="false"/>
+        <property key="labeling/bufferSize" value="1"/>
+        <property key="labeling/bufferSizeInMapUnits" value="false"/>
+        <property key="labeling/bufferSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/bufferTransp" value="0"/>
+        <property key="labeling/centroidInside" value="false"/>
+        <property key="labeling/centroidWhole" value="false"/>
+        <property key="labeling/decimals" value="3"/>
+        <property key="labeling/displayAll" value="false"/>
+        <property key="labeling/dist" value="0"/>
+        <property key="labeling/distInMapUnits" value="false"/>
+        <property key="labeling/distMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/drawLabels" value="false"/>
+        <property key="labeling/enabled" value="false"/>
+        <property key="labeling/fieldName" value=""/>
+        <property key="labeling/fitInPolygonOnly" value="false"/>
+        <property key="labeling/fontCapitals" value="0"/>
+        <property key="labeling/fontFamily" value="Sans Serif"/>
+        <property key="labeling/fontItalic" value="false"/>
+        <property key="labeling/fontLetterSpacing" value="0"/>
+        <property key="labeling/fontLimitPixelSize" value="false"/>
+        <property key="labeling/fontMaxPixelSize" value="10000"/>
+        <property key="labeling/fontMinPixelSize" value="3"/>
+        <property key="labeling/fontSize" value="9"/>
+        <property key="labeling/fontSizeInMapUnits" value="false"/>
+        <property key="labeling/fontSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/fontStrikeout" value="false"/>
+        <property key="labeling/fontUnderline" value="false"/>
+        <property key="labeling/fontWeight" value="50"/>
+        <property key="labeling/fontWordSpacing" value="0"/>
+        <property key="labeling/formatNumbers" value="false"/>
+        <property key="labeling/isExpression" value="true"/>
+        <property key="labeling/labelOffsetInMapUnits" value="true"/>
+        <property key="labeling/labelOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/labelPerPart" value="false"/>
+        <property key="labeling/leftDirectionSymbol" value="&lt;"/>
+        <property key="labeling/limitNumLabels" value="false"/>
+        <property key="labeling/maxCurvedCharAngleIn" value="25"/>
+        <property key="labeling/maxCurvedCharAngleOut" value="-25"/>
+        <property key="labeling/maxNumLabels" value="2000"/>
+        <property key="labeling/mergeLines" value="false"/>
+        <property key="labeling/minFeatureSize" value="0"/>
+        <property key="labeling/multilineAlign" value="4294967295"/>
+        <property key="labeling/multilineHeight" value="1"/>
+        <property key="labeling/namedStyle" value="Normal"/>
+        <property key="labeling/obstacle" value="true"/>
+        <property key="labeling/obstacleFactor" value="1"/>
+        <property key="labeling/obstacleType" value="0"/>
+        <property key="labeling/offsetType" value="0"/>
+        <property key="labeling/placeDirectionSymbol" value="0"/>
+        <property key="labeling/placement" value="1"/>
+        <property key="labeling/placementFlags" value="10"/>
+        <property key="labeling/plussign" value="false"/>
+        <property key="labeling/predefinedPositionOrder" value="TR,TL,BR,BL,R,L,TSR,BSR"/>
+        <property key="labeling/preserveRotation" value="true"/>
+        <property key="labeling/previewBkgrdColor" value="#ffffff"/>
+        <property key="labeling/priority" value="5"/>
+        <property key="labeling/quadOffset" value="4"/>
+        <property key="labeling/repeatDistance" value="0"/>
+        <property key="labeling/repeatDistanceMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/repeatDistanceUnit" value="1"/>
+        <property key="labeling/reverseDirectionSymbol" value="false"/>
+        <property key="labeling/rightDirectionSymbol" value=">"/>
+        <property key="labeling/scaleMax" value="10000000"/>
+        <property key="labeling/scaleMin" value="1"/>
+        <property key="labeling/scaleVisibility" value="false"/>
+        <property key="labeling/shadowBlendMode" value="6"/>
+        <property key="labeling/shadowColorB" value="0"/>
+        <property key="labeling/shadowColorG" value="0"/>
+        <property key="labeling/shadowColorR" value="0"/>
+        <property key="labeling/shadowDraw" value="false"/>
+        <property key="labeling/shadowOffsetAngle" value="135"/>
+        <property key="labeling/shadowOffsetDist" value="1"/>
+        <property key="labeling/shadowOffsetGlobal" value="true"/>
+        <property key="labeling/shadowOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowOffsetUnits" value="1"/>
+        <property key="labeling/shadowRadius" value="1.5"/>
+        <property key="labeling/shadowRadiusAlphaOnly" value="false"/>
+        <property key="labeling/shadowRadiusMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shadowRadiusUnits" value="1"/>
+        <property key="labeling/shadowScale" value="100"/>
+        <property key="labeling/shadowTransparency" value="30"/>
+        <property key="labeling/shadowUnder" value="0"/>
+        <property key="labeling/shapeBlendMode" value="0"/>
+        <property key="labeling/shapeBorderColorA" value="255"/>
+        <property key="labeling/shapeBorderColorB" value="128"/>
+        <property key="labeling/shapeBorderColorG" value="128"/>
+        <property key="labeling/shapeBorderColorR" value="128"/>
+        <property key="labeling/shapeBorderWidth" value="0"/>
+        <property key="labeling/shapeBorderWidthMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeBorderWidthUnits" value="1"/>
+        <property key="labeling/shapeDraw" value="false"/>
+        <property key="labeling/shapeFillColorA" value="255"/>
+        <property key="labeling/shapeFillColorB" value="255"/>
+        <property key="labeling/shapeFillColorG" value="255"/>
+        <property key="labeling/shapeFillColorR" value="255"/>
+        <property key="labeling/shapeJoinStyle" value="64"/>
+        <property key="labeling/shapeOffsetMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeOffsetUnits" value="1"/>
+        <property key="labeling/shapeOffsetX" value="0"/>
+        <property key="labeling/shapeOffsetY" value="0"/>
+        <property key="labeling/shapeRadiiMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeRadiiUnits" value="1"/>
+        <property key="labeling/shapeRadiiX" value="0"/>
+        <property key="labeling/shapeRadiiY" value="0"/>
+        <property key="labeling/shapeRotation" value="0"/>
+        <property key="labeling/shapeRotationType" value="0"/>
+        <property key="labeling/shapeSVGFile" value=""/>
+        <property key="labeling/shapeSizeMapUnitScale" value="0,0,0,0,0,0"/>
+        <property key="labeling/shapeSizeType" value="0"/>
+        <property key="labeling/shapeSizeUnits" value="1"/>
+        <property key="labeling/shapeSizeX" value="0"/>
+        <property key="labeling/shapeSizeY" value="0"/>
+        <property key="labeling/shapeTransparency" value="0"/>
+        <property key="labeling/shapeType" value="0"/>
+        <property key="labeling/substitutions" value="&lt;substitutions/>"/>
+        <property key="labeling/textColorA" value="255"/>
+        <property key="labeling/textColorB" value="0"/>
+        <property key="labeling/textColorG" value="0"/>
+        <property key="labeling/textColorR" value="0"/>
+        <property key="labeling/textTransp" value="0"/>
+        <property key="labeling/upsidedownLabels" value="0"/>
+        <property key="labeling/useSubstitutions" value="false"/>
+        <property key="labeling/wrapChar" value=""/>
+        <property key="labeling/xOffset" value="0"/>
+        <property key="labeling/yOffset" value="0"/>
+        <property key="labeling/zIndex" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerTransparency>0</layerTransparency>
+      <displayfield>NAME</displayfield>
+      <label>0</label>
+      <labelattributes>
+        <label fieldname="" text="Rótulo"/>
+        <family fieldname="" name="Sans Serif"/>
+        <size fieldname="" units="pt" value="12"/>
+        <bold fieldname="" on="0"/>
+        <italic fieldname="" on="0"/>
+        <underline fieldname="" on="0"/>
+        <strikeout fieldname="" on="0"/>
+        <color fieldname="" red="0" blue="0" green="0"/>
+        <x fieldname=""/>
+        <y fieldname=""/>
+        <offset x="0" y="0" units="pt" yfieldname="" xfieldname=""/>
+        <angle fieldname="" value="0" auto="0"/>
+        <alignment fieldname="" value="center"/>
+        <buffercolor fieldname="" red="255" blue="255" green="255"/>
+        <buffersize fieldname="" units="pt" value="1"/>
+        <bufferenabled fieldname="" on=""/>
+        <multilineenabled fieldname="" on=""/>
+        <selectedonly on=""/>
+      </labelattributes>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" sizeLegend="0" attributeLegend="1">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" sizeScale="0,0,0,0,0,0" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" lineSizeScale="0,0,0,0,0,0" sizeType="MM" lineSizeType="MM" minScaleDenominator="inf">
+          <fontProperties description="Sans Serif,9,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
+        </DiagramCategory>
+        <symbol alpha="1" clip_to_extent="1" type="marker" name="sizeSymbol">
+          <layer pass="0" class="SimpleMarker" locked="0">
+            <prop k="angle" v="0"/>
+            <prop k="color" v="255,0,0,255"/>
+            <prop k="horizontal_anchor_point" v="1"/>
+            <prop k="joinstyle" v="bevel"/>
+            <prop k="name" v="circle"/>
+            <prop k="offset" v="0,0"/>
+            <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="offset_unit" v="MM"/>
+            <prop k="outline_color" v="0,0,0,255"/>
+            <prop k="outline_style" v="solid"/>
+            <prop k="outline_width" v="0"/>
+            <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="outline_width_unit" v="MM"/>
+            <prop k="scale_method" v="diameter"/>
+            <prop k="size" v="2"/>
+            <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+            <prop k="size_unit" v="MM"/>
+            <prop k="vertical_anchor_point" v="1"/>
+          </layer>
+        </symbol>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings yPosColumn="-1" showColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
+      <annotationform>.</annotationform>
+      <aliases>
+        <alias field="FIPS" index="0" name=""/>
+        <alias field="ISO2" index="1" name=""/>
+        <alias field="ISO3" index="2" name=""/>
+        <alias field="UN" index="3" name=""/>
+        <alias field="NAME" index="4" name=""/>
+        <alias field="AREA" index="5" name=""/>
+        <alias field="POP2005" index="6" name=""/>
+        <alias field="REGION" index="7" name=""/>
+        <alias field="SUBREGION" index="8" name=""/>
+        <alias field="LON" index="9" name=""/>
+        <alias field="LAT" index="10" name=""/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <attributeactions default="-1"/>
+      <attributetableconfig actionWidgetStyle="dropDown" sortExpression="" sortOrder="0">
+        <columns>
+          <column width="-1" hidden="0" type="field" name="FIPS"/>
+          <column width="-1" hidden="0" type="field" name="ISO2"/>
+          <column width="-1" hidden="0" type="field" name="ISO3"/>
+          <column width="-1" hidden="0" type="field" name="UN"/>
+          <column width="-1" hidden="0" type="field" name="NAME"/>
+          <column width="-1" hidden="0" type="field" name="AREA"/>
+          <column width="-1" hidden="0" type="field" name="POP2005"/>
+          <column width="-1" hidden="0" type="field" name="REGION"/>
+          <column width="-1" hidden="0" type="field" name="SUBREGION"/>
+          <column width="-1" hidden="0" type="field" name="LON"/>
+          <column width="-1" hidden="0" type="field" name="LAT"/>
+          <column width="-1" hidden="1" type="actions"/>
+        </columns>
+      </attributetableconfig>
+      <editform>.</editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath>.</editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- código: utf-8 -*-
+"""
+Formas QGIS podem ter uma função Python que é chamada quando o formulário é
+aberto.
+
+Use esta função para adicionar lógica extra para seus formulários.
+
+Digite o nome da função na "função Python Init"
+campo.
+Um exemplo a seguir:
+"""
+de qgis.PyQt.QtWidgets importar QWidget
+
+def my_form_open(diálogo, camada, feição):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <widgets/>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <defaults>
+        <default field="FIPS" expression=""/>
+        <default field="ISO2" expression=""/>
+        <default field="ISO3" expression=""/>
+        <default field="UN" expression=""/>
+        <default field="NAME" expression=""/>
+        <default field="AREA" expression=""/>
+        <default field="POP2005" expression=""/>
+        <default field="REGION" expression=""/>
+        <default field="SUBREGION" expression=""/>
+        <default field="LON" expression=""/>
+        <default field="LAT" expression=""/>
+      </defaults>
+      <previewExpression></previewExpression>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cawood_percentage_reduction_3000PLS20200208135250508</id>
+      <datasource>./cawood_percentage_reduction_3000PLS.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cawood_percentage_reduction_3000PLS</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" classificationMax="-6.10005" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="-100" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="-100" label="-100" color="#ce0000"/>
+              <item alpha="255" value="-90" label="-90" color="#f32e00"/>
+              <item alpha="255" value="-80" label="-80" color="#ec5a00"/>
+              <item alpha="255" value="-70" label="-70" color="#e58600"/>
+              <item alpha="255" value="-60" label="-60" color="#e3b500"/>
+              <item alpha="255" value="-50" label="-50" color="#e3e500"/>
+              <item alpha="255" value="-40" label="-40" color="#b4fc04"/>
+              <item alpha="255" value="-30" label="-30" color="#55fb0d"/>
+              <item alpha="255" value="-20" label="-20" color="#12eb12"/>
+              <item alpha="255" value="-10" label="-10" color="#10b610"/>
+              <item alpha="255" value="0" label="0" color="#ffffff"/>
+              <item alpha="255" value="10" label="10" color="#20c0e1"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cawood_percentage_reduction_3PFTs20200208115918770</id>
+      <datasource>./cawood_percentage_reduction_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cawood_percentage_reduction_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" classificationMax="-0.326494" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="-100" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="-100" label="-100" color="#ce0000"/>
+              <item alpha="255" value="-90" label="-90" color="#f32e00"/>
+              <item alpha="255" value="-80" label="-80" color="#ec5a00"/>
+              <item alpha="255" value="-70" label="-70" color="#e58600"/>
+              <item alpha="255" value="-60" label="-60" color="#e3b500"/>
+              <item alpha="255" value="-50" label="-50" color="#e3e500"/>
+              <item alpha="255" value="-40" label="-40" color="#b4fc04"/>
+              <item alpha="255" value="-30" label="-30" color="#55fb0d"/>
+              <item alpha="255" value="-20" label="-20" color="#12eb12"/>
+              <item alpha="255" value="-10" label="-10" color="#10b610"/>
+              <item alpha="255" value="0" label="0" color="#ffffff"/>
+              <item alpha="255" value="10" label="10" color="#20c0e1"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cell_area20200210144511412</id>
+      <datasource>../../CAETEv1.0_PLS/codes/CAETE-v1.0_PLS/scripts/cell_area.nc</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cell_area</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>576158483.296</minValue>
+            <maxValue>3085529672.3840003</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cfroot_percentage_reduction_3000PLS20200208122120303</id>
+      <datasource>./cfroot_percentage_reduction_3000PLS.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cfroot_percentage_reduction_3000PLS</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="10.2219" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="-100" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="-100" label="-100" color="#ce0000"/>
+              <item alpha="255" value="-90" label="-90" color="#f32e00"/>
+              <item alpha="255" value="-80" label="-80" color="#ec5a00"/>
+              <item alpha="255" value="-70" label="-70" color="#e58600"/>
+              <item alpha="255" value="-60" label="-60" color="#e3b500"/>
+              <item alpha="255" value="-50" label="-50" color="#e3e500"/>
+              <item alpha="255" value="-40" label="-40" color="#b4fc04"/>
+              <item alpha="255" value="-30" label="-30" color="#55fb0d"/>
+              <item alpha="255" value="-20" label="-20" color="#12eb12"/>
+              <item alpha="255" value="-10" label="-10" color="#10b610"/>
+              <item alpha="255" value="0" label="0" color="#ffffff"/>
+              <item alpha="255" value="10" label="10" color="#2087e1"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cfroot_percentage_reduction_3PFTs20200208120201960</id>
+      <datasource>./cfroot_percentage_reduction_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cfroot_percentage_reduction_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="-0.210859" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="-100" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="-100" label="-100" color="#ce0000"/>
+              <item alpha="255" value="-90" label="-90" color="#f32e00"/>
+              <item alpha="255" value="-80" label="-80" color="#ec5a00"/>
+              <item alpha="255" value="-70" label="-70" color="#e58600"/>
+              <item alpha="255" value="-60" label="-60" color="#e3b500"/>
+              <item alpha="255" value="-50" label="-50" color="#e3e500"/>
+              <item alpha="255" value="-40" label="-40" color="#b4fc04"/>
+              <item alpha="255" value="-30" label="-30" color="#55fb0d"/>
+              <item alpha="255" value="-20" label="-20" color="#12eb12"/>
+              <item alpha="255" value="-10" label="-10" color="#10b610"/>
+              <item alpha="255" value="0" label="0" color="#ffffff"/>
+              <item alpha="255" value="10" label="10" color="#20c0e1"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cleaf_percentage_reduction_3000PLS20200208122015438</id>
+      <datasource>./cleaf_percentage_reduction_3000PLS.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cleaf_percentage_reduction_3000PLS</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="-3.10909" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="-100" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="-100" label="-100" color="#ce0000"/>
+              <item alpha="255" value="-90" label="-90" color="#f32e00"/>
+              <item alpha="255" value="-80" label="-80" color="#ec5a00"/>
+              <item alpha="255" value="-70" label="-70" color="#e58600"/>
+              <item alpha="255" value="-60" label="-60" color="#e3b500"/>
+              <item alpha="255" value="-50" label="-50" color="#e3e500"/>
+              <item alpha="255" value="-40" label="-40" color="#b4fc04"/>
+              <item alpha="255" value="-30" label="-30" color="#55fb0d"/>
+              <item alpha="255" value="-20" label="-20" color="#12eb12"/>
+              <item alpha="255" value="-10" label="-10" color="#10b610"/>
+              <item alpha="255" value="0" label="0" color="#ffffff"/>
+              <item alpha="255" value="10" label="10" color="#20c0e1"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cleaf_percentage_reduction_3PFTs20200208115113231</id>
+      <datasource>./cleaf_percentage_reduction_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cleaf_percentage_reduction_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="-0.214601" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="-100" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="-100" label="-100" color="#ce0000"/>
+              <item alpha="255" value="-90" label="-90" color="#f32e00"/>
+              <item alpha="255" value="-80" label="-80" color="#ec5a00"/>
+              <item alpha="255" value="-70" label="-70" color="#e58600"/>
+              <item alpha="255" value="-60" label="-60" color="#e3b500"/>
+              <item alpha="255" value="-50" label="-50" color="#e3e500"/>
+              <item alpha="255" value="-40" label="-40" color="#b4fc04"/>
+              <item alpha="255" value="-30" label="-30" color="#55fb0d"/>
+              <item alpha="255" value="-20" label="-20" color="#12eb12"/>
+              <item alpha="255" value="-10" label="-10" color="#10b610"/>
+              <item alpha="255" value="0" label="0" color="#ffffff"/>
+              <item alpha="255" value="10" label="10" color="#20c0e1"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cmass_area_3PFTs20200210144546002</id>
+      <datasource>../../../cmass_area_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cmass_area_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>64496295739.392006</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cmass_area_PLS20200210144743933</id>
+      <datasource>../../../cmass_area_PLS.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cmass_area_PLS</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>1487911907.328</minValue>
+            <maxValue>41944174012.416</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cmass_gross_reduction_3PFTs20200210144450305</id>
+      <datasource>../../../cmass_gross_reduction_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cmass_gross_reduction_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>21.07368938446045</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cmass_gross_reduction_PLS20200210144714253</id>
+      <datasource>../../../cmass_gross_reduction_PLS.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cmass_gross_reduction_PLS</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0.475752248644829</minValue>
+            <maxValue>13.648399213433265</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cmass_percenage_reduction_PLS20200210141909195</id>
+      <datasource>../../../cmass_percenage_reduction_PLS.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cmass_percenage_reduction_PLS</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="0" classificationMax="-4.18204" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="-100" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="-100" label="-100" color="#ce0000"/>
+              <item alpha="255" value="-90" label="-90" color="#f32e00"/>
+              <item alpha="255" value="-80" label="-80" color="#ec5a00"/>
+              <item alpha="255" value="-70" label="-70" color="#e58600"/>
+              <item alpha="255" value="-60" label="-60" color="#e3b500"/>
+              <item alpha="255" value="-50" label="-50" color="#e3e500"/>
+              <item alpha="255" value="-40" label="-40" color="#b4fc04"/>
+              <item alpha="255" value="-30" label="-30" color="#55fb0d"/>
+              <item alpha="255" value="-20" label="-20" color="#12eb12"/>
+              <item alpha="255" value="-10" label="-10" color="#10b610"/>
+              <item alpha="255" value="0" label="0" color="#ffffff"/>
+              <item alpha="255" value="10" label="10" color="#20c0e1"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="inf" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cmass_percentage_reduction_3PFTs20200210141157951</id>
+      <datasource>../../../cmass_percentage_reduction_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cmass_percentage_reduction_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer opacity="1" alphaBand="-1" classificationMax="-0.324924" classificationMinMaxOrigin="CumulativeCutFullExtentEstimated" band="1" classificationMin="-100" type="singlebandpseudocolor">
+          <rasterTransparency/>
+          <rastershader>
+            <colorrampshader colorRampType="INTERPOLATED" clip="0">
+              <item alpha="255" value="-100" label="-100" color="#ce0000"/>
+              <item alpha="255" value="-90" label="-90" color="#f32e00"/>
+              <item alpha="255" value="-80" label="-80" color="#ec5a00"/>
+              <item alpha="255" value="-70" label="-70" color="#e58600"/>
+              <item alpha="255" value="-60" label="-60" color="#e3b500"/>
+              <item alpha="255" value="-50" label="-50" color="#e3e500"/>
+              <item alpha="255" value="-40" label="-40" color="#b4fc04"/>
+              <item alpha="255" value="-30" label="-30" color="#55fb0d"/>
+              <item alpha="255" value="-20" label="-20" color="#12eb12"/>
+              <item alpha="255" value="-10" label="-10" color="#10b610"/>
+              <item alpha="255" value="0" label="0" color="#ffffff"/>
+            </colorrampshader>
+          </rastershader>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cmass_reduction_area_pft20200210145000679</id>
+      <datasource>./cmass_reduction_area_pft.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cmass_reduction_area_pft</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>64496295739.392006</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>cmass_reduction_area_pls20200210144943857</id>
+      <datasource>./cmass_reduction_area_pls.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>cmass_reduction_area_pls</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>1487911907.328</minValue>
+            <maxValue>41944174012.416</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cawood_PLS_lowprec_clipped20200208120514324</id>
+      <datasource>../../CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS_application/3000_lowprec/total_cawood_PLS_lowprec_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cawood_PLS_lowprec_clipped</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>12.10754259967804</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cawood_PLS_nclim_clipped20200208113640611</id>
+      <datasource>../../CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS/total_cawood_PLS_nclim_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cawood_PLS_nclim</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0.754351077079773</minValue>
+            <maxValue>13.249148008346559</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cawood_lowprec_3PFTs20200208114225115</id>
+      <datasource>../3PFTs_lowprec/total_cawood_lowprec_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cawood_lowprec_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>16.521686502456664</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cawood_nclim_3PFTs20200208113350461</id>
+      <datasource>../3PFTs_nclim/total_cawood_nclim_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cawood_nclim_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>19.388036376953124</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cfroot_PLS_lowprec_clipped20200208120514091</id>
+      <datasource>../../CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS_application/3000_lowprec/total_cfroot_PLS_lowprec_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cfroot_PLS_lowprec_clipped</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>0.736522844791412</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cfroot_PLS_nclim_clipped20200208113623991</id>
+      <datasource>../../CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS/total_cfroot_PLS_nclim_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cfroot_PLS_nclim</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0.282312594890594</minValue>
+            <maxValue>0.743532590031624</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cfroot_lowprec_3PFTs20200208114147462</id>
+      <datasource>../3PFTs_lowprec/total_cfroot_lowprec_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cfroot_lowprec_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>1.438167051792145</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cfroot_nclim_3PFTs20200208113239869</id>
+      <datasource>../3PFTs_nclim/total_cfroot_nclim_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cfroot_nclim_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>1.741814876556396</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cleaf_PLS_lowprec_clipped20200208120514507</id>
+      <datasource>../../CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS_application/3000_lowprec/total_cleaf_PLS_lowprec_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cleaf_PLS_lowprec_clipped</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>0.738859925746918</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cleaf_PLS_nclim_clipped20200208113640397</id>
+      <datasource>../../CAETEv1.0_PLS/caete_results_server/paper_mestrado_Amz_basin/3000PLS/total_cleaf_PLS_nclim_clipped.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cleaf_PLS_nclim</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0.105962361454964</minValue>
+            <maxValue>0.790261349916458</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cleaf_lowprec_3PFTs20200208114113094</id>
+      <datasource>../3PFTs_lowprec/total_cleaf_lowprec_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cleaf_lowprec_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>1.41732228088379</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cleaf_nclim_3PFTs20200208112858905</id>
+      <datasource>../3PFTs_nclim/total_cleaf_nclim_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cleaf_nclim_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>1.728684160709381</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cmass_lowprec_3PFTs20200210141047455</id>
+      <datasource>../../../total_cmass_lowprec_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cmass_lowprec_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>19.32941586303711</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cmass_lowprec_PLS20200210141817454</id>
+      <datasource>../../../total_cmass_lowprec_PLS.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cmass_lowprec_PLS</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>13.525692801475524</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cmass_nclim_3PFTs20200210140854752</id>
+      <datasource>../../../total_cmass_nclim_3PFTs.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cmass_nclim_3PFTs</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>22.846963247299197</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-180</xmin>
+        <ymin>-90</ymin>
+        <xmax>180</xmax>
+        <ymax>90</ymax>
+      </extent>
+      <id>total_cmass_nclim_PLS20200210141636352</id>
+      <datasource>../../../total_cmass_nclim_PLS.tif</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>total_cmass_nclim_PLS</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>1.02228225517273</minValue>
+            <maxValue>14.754431951522827</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </projectlayers>
+  <properties>
+    <Measurement>
+      <DistanceUnits type="QString"></DistanceUnits>
+      <AreaUnits type="QString"></AreaUnits>
+    </Measurement>
+    <SpatialRefSys>
+      <ProjectCRSProj4String type="QString">+proj=longlat +datum=WGS84 +no_defs</ProjectCRSProj4String>
+      <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
+      <ProjectCRSID type="int">3452</ProjectCRSID>
+    </SpatialRefSys>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <Gui>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+    </Gui>
+    <Digitizing>
+      <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
+      <LayerSnappingList type="QStringList">
+        <value>TM_WORLD_BORDERS_0_320200208115400987</value>
+        <value>TM_WORLD_BORDERS_0_3__copiar20200208115428754</value>
+      </LayerSnappingList>
+      <LayerSnappingEnabledList type="QStringList">
+        <value>disabled</value>
+        <value>disabled</value>
+      </LayerSnappingEnabledList>
+      <SnappingMode type="QString">current_layer</SnappingMode>
+      <AvoidIntersectionsList type="QStringList"/>
+      <LayerSnappingToleranceUnitList type="QStringList">
+        <value>2</value>
+        <value>2</value>
+      </LayerSnappingToleranceUnitList>
+      <LayerSnapToList type="QStringList">
+        <value>to_vertex_and_segment</value>
+        <value>to_vertex_and_segment</value>
+      </LayerSnapToList>
+      <DefaultSnapType type="QString">off</DefaultSnapType>
+      <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
+      <LayerSnappingToleranceList type="QStringList">
+        <value>0.000000</value>
+        <value>0.000000</value>
+      </LayerSnappingToleranceList>
+    </Digitizing>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <Automatic type="bool">true</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+  </properties>
+  <visibility-presets/>
+</qgis>

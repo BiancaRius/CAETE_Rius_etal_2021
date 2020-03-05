@@ -1,0 +1,7 @@
+variable,mean_reduction(%) ,approach
+GPP,59.07044,PLS
+NPP,59.15772,PLS
+Biomass,59.58389,PLS
+GPP,67.35158,PFT
+NPP,61.90657,PFT
+Biomass,50.61867,PFT
